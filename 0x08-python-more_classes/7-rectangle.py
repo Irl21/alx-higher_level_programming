@@ -1,4 +1,8 @@
-s module is composed by a class that defines a Rectangle
+#!/usr/bin/python3
+
+"""
+
+This module is composed by a class that defines a Rectangle
 
 """
 
